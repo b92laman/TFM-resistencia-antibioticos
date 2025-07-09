@@ -1,0 +1,6 @@
+#FILE	NUM_FOUND	Col440I_1	ColRNAI_1	FII(pBK30683)_1	IncFIA(HI1)_1_HI1	IncFIB(K)_1_Kpn3	IncFIB(pKPHS1)_1_pKPHS1	IncFII_1_pKP91	IncL/M(pMU407)_1_pMU407
+SRR25759560_plasmidfinder.tsv	1	.	.	.	.	100.00	.	.	.
+SRR25759561_plasmidfinder.tsv	3	.	91.54	.	.	100.00	.	96.09	.
+SRR25759566_plasmidfinder.tsv	3	100.00	.	.	.	.	100.00	.	100.00
+SRR25759567_plasmidfinder.tsv	4	.	91.54	100.00	100.00	.	.	100.00	.
+SRR25759571_plasmidfinder.tsv	5	100.00	.	.	.	80.89	100.00	96.09	85.93
