@@ -20,14 +20,14 @@ Los datos genómicos analizados provienen del repositorio europeo ENA (European 
 Los archivos `.fastq` se descargaron directamente desde ENA y no se incluyen en este repositorio debido a su tamaño.
 
 ## Estructura del repositorio
-
+```
 TFM-resistencia-antibioticos/
 ├── scripts/ # Scripts bash para procesamiento y análisis
 ├── R-scripts/ # Scripts en R para visualización de resultados
 ├── results/ # Tablas resumen generadas por las herramientas
 ├── tfm.yml # Archivo de entorno Conda con dependencias
 └── README.md # Este archivo
-
+```
 
 ## Herramientas utilizadas
 
