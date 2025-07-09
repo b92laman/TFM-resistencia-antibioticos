@@ -31,22 +31,24 @@ TFM-resistencia-antibioticos/
 
 ## Herramientas utilizadas
 
-- [`fastp`](https://github.com/OpenGene/fastp) – control de calidad
-- [`SPAdes`](https://github.com/ablab/spades) – ensamblado
-- [`QUAST`](http://quast.sourceforge.net/) – evaluación del ensamblado
-- [`Prokka`](https://github.com/tseemann/prokka) – anotación
-- [`ResFinder`](https://cge.food.dtu.dk/services/ResFinder/)
-- [`AMRFinderPlus`](https://github.com/ncbi/amr) – detección de genes AMR
-- [`PlasmidFinder`](https://cge.food.dtu.dk/services/PlasmidFinder/)
-- [`Kleborate`](https://github.com/katholt/Kleborate) – tipado y virulencia
+- [`fastp`]– control de calidad
+- [`SPAdes`] – ensamblado
+- [`QUAST`]– evaluación del ensamblado
+- [`Prokka`]– anotación
+- [`ResFinder`] - detección de genes AMR
+- [`AMRFinderPlus`] – detección de genes AMR
+- [`PlasmidFinder`] - detección de plásmidos
+- [`Kleborate`] – tipado y virulencia
+
 
 ## Entorno de trabajo
 
-Este proyecto se ejecutó en un entorno `conda`. Puedes replicarlo con:
+Este proyecto se ejecutó en un entorno `conda`. Puede replicarse con:
 
 ```bash
 conda env create -f tfm.yml
 conda activate tfm_env
+```
 
 ## Resultados
 
