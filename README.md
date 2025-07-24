@@ -1,5 +1,5 @@
 # TFM-resistencia-antibioticos
-Análisis genómico de resistencia en Klebsiella pneumoniae
+Análisis genómico de resistencia en *Klebsiella pneumoniae*
 
 Este repositorio contiene los scripts, análisis y resultados del Trabajo de Fin de Máster (TFM) en Bioinformática, centrado en la detección de genes de resistencia a antibióticos en aislamientos de *Klebsiella pneumoniae*, a partir de datos de secuenciación disponibles públicamente.
 
